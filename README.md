@@ -1,11 +1,19 @@
 # MP3-Player-PCB
-Prototype is finished, we are currently working on the PCB
-
-Insert Summary part here and who made it
+PCB was completed, all that's left is finalizing documentation and presentation for the project
 
 # Technologies and Components
 ## Hardware Related
-
+- XIAO ESP32-S3
+- DF Mini MP3 Player Module
+- SH1107 1.5" OLED display
+- DS3231 Real Time Clock Module (RTC)
+- 4 Pin Tactile Button (X3)
+- 3 Pin Audio Jack
+- 1K OHM Resistor
+- Soldering of THT components
+- 3.7V 1500mAh lipo battery
+- IP5306 (Boost converter & lipo battery charger)
+- Toggle switch (used for power off and on of device)
 
 ## Software Related
 
@@ -17,11 +25,8 @@ Footprints were created for the PCB based on the exact physical measurments of t
 # System Features
 ## Displays Current:
 + AM/PM formatted time (PST)
-+ Day of week
 + Date (MM/DD/YYYY)
-+ Temperature (F|C)
-+ Humidity (%)
-+ General air quality
+
 
 ## Time Responsive Icons 
 + Morning Icon: 6 AM - 3 PM
