@@ -1,5 +1,7 @@
 # MP3-Player-PCB Created with KiCad 9
-PCB was assembled, everything worked perfectly. Finalizing documentation and presentation is all that's needed...
+A fully custom designed MP3 player that provides a clean and compact user interaction expirence...
+
+*created by: Bryan Diaz and Junior Ortega | Focus: Embedded Systems, Hardware and PCB Design*
 
 # Technologies and Components
 ## Hardware Related
@@ -15,8 +17,8 @@ PCB was assembled, everything worked perfectly. Finalizing documentation and pre
 - Custom 2 layer PCB (designed in KiCad)
 
 ## Software Related
-- C++
-- KiCad 9
+- C++ (Toggle condtions for system features, loading of UI, response to user input based on 3 tactile buttons and cursor positioning)
+- KiCad 9 (Schematic capture and board design)
 - Various libraries for components:
   - U8g2 (graphics for UI)
   - DFRobotDFPlayerMini (for mp3 player)
@@ -29,9 +31,9 @@ Footprints were created for the PCB based on the exact physical measurments of t
 [special case for the audioJack, spacing for this was ...]
 
 - DS3231 RTC: 22mm X 38.5mm (W X L)
-- DF Mini Player:
-- SH1107 1.5" OLED display:
-- 3 Pin Audio Jack:
+- DF Mini Player: 20.8mm X 20.8mm (W X L)
+- SH1107 1.5" OLED display: 34mm X 47mm (W X L)
+- 3 Pin Audio Jack: 12mm X 12mm (W X L)
 
 # System Features
 ## MP3 User System:
