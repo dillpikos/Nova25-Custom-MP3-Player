@@ -66,5 +66,7 @@ Footprints were created for the PCB based on the exact physical measurments of t
 <img src = "https://github.com/user-attachments/assets/0175e984-8308-4e14-a383-08b61785e83b" width = "400" height = "700"/> 
 <img src = "https://github.com/user-attachments/assets/1caa3069-ad71-4998-81eb-c4525bf72be9" width = "400" height = "800"/> 
 
+# Schematic
+<img width="1181" height="641" alt="image" src="https://github.com/user-attachments/assets/2dd499f2-97e8-4321-9514-48265c7cd7ce" />
 
 
